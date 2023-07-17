@@ -1,0 +1,5 @@
+Uwagi dotyczące aplikacji
+
+Do uruchomienia aplikacji dla systemu windows wymagana jest biblioteka Microsoft .NET Framework 4.0.
+Do kompilacji aplikacji wymagane jest środowisko Microsoft Visual Studio 2010.
+Po kompilacji należy skopiować pliki z folderu "Potrzebne pliki" danej aplikacji, do katalogu głównego programu.
